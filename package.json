@@ -1,0 +1,9 @@
+{
+    "name": "backdoor-api",
+    "version": "1.0.0",
+    "main": "value.js",
+    "scripts": {
+        "start": "node value.js"
+    },
+    "dependencies": {}
+}
