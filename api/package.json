@@ -1,4 +1,10 @@
 {
-    "name": "backdoor-api",
-    "version": "1.0.0"
+  "name": "value-api",
+  "version": "1.0.0",
+  "description": "A simple API that returns a configurable value between 0.0 and 1.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel"
+  }
 }
