@@ -13,7 +13,7 @@ export default function handler(req, res) {
     return;
   }
 
-  const value = 0.3; // Change this value between 0.0 and 1.0
+  const value = 1.0; // Change this value between 0.0 and 1.0
 
   res.status(200).json({
     value: value,
