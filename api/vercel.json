@@ -4,15 +4,5 @@
     "api/value.js": {
       "maxDuration": 10
     }
-  },
-  "routes": [
-    {
-      "src": "/",
-      "dest": "/api/value.js"
-    },
-    {
-      "src": "/value",
-      "dest": "/api/value.js"
-    }
-  ]
+  }
 }
